@@ -1,0 +1,54 @@
+{
+  "navigation": [
+    {
+      "title": "About",
+      "url": "http://www.example.com/about"
+    },
+    {
+      "title": "Projects",
+      "url": "http://www.example.com/portfolio"
+    },
+    {
+      "title": "Contact",
+      "url": "http://www.example.com/contact"
+    }
+  ],
+  "hero": {
+    "name": "Syed Mahedi Hasen",
+    "subtitle": "I am a full-stack developer with a passion for problem-solving and a track record of delivering high-quality software solutions. I also have good skill in Video Making & Editing! Now I'm studing at Rajshahi university of Engineering & Technology in Computer Science and Engineering"
+  },
+  "about": {
+    "title": "About me",
+    "image": "/placeholder.png",
+    "primary": "I'm a developer and problem solver with expertise in Python, C++, JavaScript, React, and Node.js. I enjoy collaborating with teams to tackle complex challenges and stay up-to-date with industry trends. Check out my portfolio to see some of the exciting projects I've worked on.",
+    "secondary": "When I'm not coding, I enjoy traveling to new destinations and capturing my adventures on video. I have a keen eye for storytelling and enjoy creating engaging content that inspires people to explore the world."
+  },
+  "work": {
+    "describtion": "Assalamu Alaikum. These projects demonstrate my skills and expertise across various domains. Take a glimpse into my world of creativity and innovation."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "your-form-id"
+  },
+  "footer": {
+    "linkedin": "",
+    "twitter": "",
+    "github": ""
+  },
+  "achievements1": {
+    "tittle": "B.Sc. in Computer Science & Engineering",
+    "describtion": "Rajshahi University of Engineering and Technology",
+    "date": "2020 – present | Rajshahi, Bangladesh"
+  },
+  "achievements2": {
+    "tittle": "Higher Secondary School Certificate",
+    "describtion": "Saidpur Govt. Technical College",
+    "date": "2017 – 2019 | Saidpur, Bangladesh"
+  },
+  "achievements3": {
+    "tittle": "Executive Memeber",
+    "describtion": "RUET Career Forum - RCF",
+    "date": "2023 – present | Rajshahi, Bangladesh"
+  }
+}
