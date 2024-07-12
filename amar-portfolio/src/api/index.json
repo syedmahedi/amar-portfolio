@@ -1,18 +1,4 @@
 {
-  "navigation": [
-    {
-      "title": "About",
-      "url": "http://www.example.com/about"
-    },
-    {
-      "title": "Projects",
-      "url": "http://www.example.com/portfolio"
-    },
-    {
-      "title": "Contact",
-      "url": "http://www.example.com/contact"
-    }
-  ],
   "hero": {
     "name": "Syed Mahedi Hasen",
     "subtitle": "I am a full-stack developer with a passion for problem-solving and a track record of delivering high-quality software solutions. I also have good skill in Video Making & Editing! Now I'm studing at Rajshahi university of Engineering & Technology in Computer Science and Engineering"
@@ -30,11 +16,6 @@
     "title": "Contact",
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
     "formId": "your-form-id"
-  },
-  "footer": {
-    "linkedin": "",
-    "twitter": "",
-    "github": ""
   },
   "achievements1": {
     "tittle": "B.Sc. in Computer Science & Engineering",
